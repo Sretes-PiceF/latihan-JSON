@@ -1,0 +1,74 @@
+{
+    "menu" : [
+        {
+            "category" : "burger",
+            "nama" : "Egg & Cheese Muffin",
+            "harga" : 500000,
+            "deskripsi" : "Lezat bolo yang mau mencoba",
+            "gambar" : "Egg & Cheese Muffin.png"
+        },
+        {
+            "category" : "burger",
+            "nama" : "Chicken Muffin",
+            "harga" : 400000,
+            "deskripsi" : "Enaknya rasa cinta makanan ini",
+            "gambar" : "Chicken Muffin.png"
+        },
+        {
+            "category" : "burger",
+            "nama" : "Sausage McMuffin",
+            "harga" : 450000,
+            "deskripsi" : "Siapa pun boleh coba anak kecil orang lansia",
+            "gambar" : "Sausage McMuffin.png"
+        },
+        {
+            "category" : "burger",
+            "nama" : "Egg McMuffin",
+            "harga" : 350000,
+            "deskripsi" :"Pergilah ke tempat mcd terkenal ditempat kalian",
+            "gambar" : "Egg McMuffin.png"
+        },
+        {
+            "category" : "burger",
+            "nama" : "Chicken Muffin with Egg",
+            "harga" : 550000,
+            "deskripsi" : "Kalau mau bilang mas enak kok",
+            "gambar" : "Chicken Muffin with Egg.png"
+        },
+        {
+            "category" : "burger",
+            "nama" : "Sausage McMuffin with Egg",
+            "harga" : 600000,
+            "deskripsi" : "Mama harus coba biar ketagihan",
+            "gambar" : "Sausage McMuffin with Egg.png"
+        },
+        {
+            "category" : "makanan ringan",
+            "nama" : "Sausage Wrap",
+            "harga" : 300000,
+            "deskripsi" : "Cobain sebelum nyesel habis",
+            "gambar" : "Sausage Wrap.png"
+        },
+        {
+            "category" : "sarapan sehat",
+            "nama" : "Big Breakfast",
+            "harga" : 700000,
+            "deskripsi" : "Puih enak banget bsnt",
+            "gambar" : "Big Breakfast.png"
+        },
+        {
+            "category" : "makanan berat",
+            "nama" : "Nasi Uduk",
+            "harga" : 40000,
+            "deskripsi" : "Rasa nya bikin nagih deh",
+            "gambar" : "nasi uduk.png"
+        },
+        {
+            "category": "makanan berat",
+            "nama" : "Bubur Ayam",
+            "harga" : 50000,
+            "deskripsi" : "Rasa nya enak banget der!!!",
+            "gambar" : "bubur ayam.png"
+        }
+    ]
+}
